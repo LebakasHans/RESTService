@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="google.maps.services" type="repository">
+    <properties include-transitive-deps="false" maven-id="com.google.maps:google-maps-services:2.2.0" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
