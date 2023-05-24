@@ -10,11 +10,11 @@ public class AppConfiguration {
 
     @Bean
     public EmployeeDataService employeeDataService() {
-        return new EmployeeDataService();
+        return new EmployeeDataService(); //TODO maybe make global static variable instead idk
     }
 
     @Bean
     public ServiceDataService serviceDataService() {
-        return new ServiceDataService();
+        return new ServiceDataService(); //TODO maybe make global static variable instead idk
     }
 }
